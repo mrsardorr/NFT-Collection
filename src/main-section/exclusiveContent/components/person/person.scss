@@ -1,0 +1,42 @@
+.person{
+    padding: 65px 0;
+    border-top: 1px solid rgba(64, 71, 86, 0.6);
+    border-bottom: 1px solid rgba(64, 71, 86, 0.6);
+    h3{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 32px;
+        color: #222222;
+        margin-bottom: 30px;
+
+    }
+    h5{
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 16px;
+        color: #222222;
+        padding-top: 12px;
+        padding-right: 30px;
+    }
+    p{
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 25px;
+        color: #404756;
+        padding-top: 30px;
+    }
+    .image{
+        img{
+            margin-right: 150px;
+        }
+    }
+    .stars svg{
+        margin-right: 5px;
+    }
+}
